@@ -9,3 +9,5 @@
 - [论文阅读材料](https://github.com/willtongji/ppcloudcomputing/blob/master/Exercise/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB.docx) 
 - [课程介绍视频](https://pan.baidu.com/s/1tx57DfJ_9ZHfWB9wlxtCTQ) 
 - [实训资源](https://github.com/willtongji/ppcloudcomputing/blob/master/%E5%AE%9E%E8%AE%AD%E8%B5%84%E6%BA%90) 
+
+持续更新，敬请关注！
