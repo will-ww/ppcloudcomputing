@@ -3,9 +3,9 @@
 
 《云计算原理与实践》教材的配套资源
 
-1、[推荐序](https://github.com/willtongji/ppcloudcomputing/blob/master/%E5%89%8D%E8%A8%80 "前言") [[PDF]](https://github.com/willtongji/ppcloudcomputing/blob/master/pdf/0A%20%E6%8E%A8%E8%8D%90%E5%BA%8F.pdf "推荐序")
-2、[前言](https://github.com/willtongji/ppcloudcomputing/blob/master/%E5%89%8D%E8%A8%80 "前言") 
-3、[目录](https://github.com/willtongji/ppcloudcomputing/blob/master/%E5%89%8D%E8%A8%80 "前言") 
+1、[推荐序][[PDF]](https://github.com/willtongji/ppcloudcomputing/blob/master/pdf/0A%20%E6%8E%A8%E8%8D%90%E5%BA%8F.pdf "推荐序")
+2、[前言] [[PDF]](https://github.com/willtongji/ppcloudcomputing/blob/master/pdf/0B%20%E5%89%8D%E8%A8%80.pdf "前言")
+3、[目录][[PDF]](https://github.com/willtongji/ppcloudcomputing/blob/master/pdf/0C%20%E7%9B%AE%E5%BD%95.pdf "目录")
 
 本页面包含的教材配套资源包括：
 - [课件PPT](https://github.com/willtongji/ppcloudcomputing/tree/master/PPT) 
