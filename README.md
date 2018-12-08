@@ -7,3 +7,4 @@
 - [课件PPT](https://github.com/willtongji/ppcloudcomputing/tree/master/PPT) 
 - [章节复习材料](https://github.com/willtongji/ppcloudcomputing/blob/master/Exercise/%E7%AB%A0%E8%8A%82%E5%A4%8D%E4%B9%A0%E6%9D%90%E6%96%99.docx) 
 - [论文阅读材料](https://github.com/willtongji/ppcloudcomputing/blob/master/Exercise/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB.docx) 
+- [课程介绍视频](https://pan.baidu.com/s/1tx57DfJ_9ZHfWB9wlxtCTQ) 
